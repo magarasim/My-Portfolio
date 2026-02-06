@@ -1,0 +1,102 @@
+ASIM PUN MAGAR
+Full Stack Developer & UI/UX Designer
+
+CONTACT INFORMATION
+Email: asimmagar20@gmail.com
+Phone: +977 9876543210
+Location: Rāmnagar, Bihar, India
+LinkedIn: linkedin.com/in/asim-pun-magar-006922309
+GitHub: github.com/magarasim
+
+PROFESSIONAL SUMMARY
+Full Stack Developer and UI/UX Designer with 5+ years of experience building scalable web applications and creating stunning user interfaces. Specialized in modern JavaScript frameworks, responsive design, and cloud infrastructure. Passionate about solving complex problems with elegant, user-centered solutions.
+
+PROFESSIONAL EXPERIENCE
+
+Senior Full Stack Developer
+TechCorp Solutions | 2022 - Present
+• Leading a team of 5 developers on enterprise-level applications
+• Implemented microservices architecture resulting in 40% performance improvement
+• Designed and deployed scalable solutions on AWS
+• Technologies: Node.js, React, AWS, MongoDB, Docker
+
+UI/UX Designer & Frontend Developer
+Digital Innovations Inc | 2020 - 2022
+• Designed and developed 15+ web applications with focus on user experience
+• Increased user engagement by 65% through improved interface design
+• Created comprehensive design systems and component libraries
+• Technologies: Figma, Vue.js, Tailwind CSS, UX Research
+
+Junior Web Developer
+Creative Agency Hub | 2019 - 2020
+• Built responsive websites for 20+ clients
+• Mastered frontend technologies and database management
+• Established strong foundation in full-stack development
+• Technologies: HTML/CSS, JavaScript, MySQL, WordPress
+
+TECHNICAL SKILLS
+
+Frontend Development
+• React, Vue.js, Angular
+• HTML5, CSS3, JavaScript (ES6+)
+• Tailwind CSS, Bootstrap
+• Responsive Design & Mobile-First Development
+• Performance Optimization
+
+Backend Development
+• Node.js (Express.js, Fastify)
+• Python (Django, Flask)
+• SQL & NoSQL Databases (MySQL, PostgreSQL, MongoDB)
+• RESTful APIs & GraphQL
+• Server Architecture & Optimization
+
+DevOps & Cloud
+• AWS (EC2, S3, Lambda, RDS)
+• Docker & Kubernetes
+• CI/CD Pipeline Implementation
+• Linux/Unix Administration
+• Database Management
+
+UI/UX Design
+• Figma & Design Tools
+• User Research & Testing
+• Wireframing & Prototyping
+• Design Systems
+• Accessibility (WCAG)
+
+EDUCATION
+
+Bachelor of Technology in Computer Science
+XYZ Institute of Technology | 2019
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect Associate
+• Google UX Design Certification
+• Full Stack Web Development Bootcamp
+
+PROJECTS & PORTFOLIO
+
+E-Commerce Platform
+Full-stack application with payment integration, inventory management, real-time notifications, and analytics dashboard. Built with React, Node.js, and Stripe API.
+
+Analytics Dashboard
+Real-time analytics platform with advanced data visualization using D3.js, Firebase backend, and Vue.js frontend. Supports 100k+ concurrent users.
+
+Social Network App
+Cross-platform mobile application built with React Native featuring real-time messaging, push notifications, and photo sharing capabilities.
+
+ACHIEVEMENTS
+• Improved application performance by 40% through optimization
+• Increased user engagement by 65% with better UX design
+• Successfully led team of 5 developers
+• Published 10+ technical articles on web development
+• Active open-source contributor
+
+LANGUAGES
+• English (Fluent)
+• Nepali (Native)
+• Hindi (Proficient)
+
+---
+Generated: 2024
+Updated: February 2024
